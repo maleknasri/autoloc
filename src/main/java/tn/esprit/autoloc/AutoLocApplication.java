@@ -9,5 +9,4 @@ public class AutoLocApplication {
     public static void main(String[] args) {
         SpringApplication.run(AutoLocApplication.class, args);
     }
-
 }
